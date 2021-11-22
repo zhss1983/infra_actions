@@ -28,5 +28,6 @@ jobs:
           echo test, and deploy your project.
 
       - name: Installation requirements
+        run:
           pip install -r /code/requirements.txt
-          # gunicorn api_yamdb.wsgi:application --bind 0.0.0.0:8000
+          #gunicorn api_yamdb.wsgi:application --bind 0.0.0.0:8000
