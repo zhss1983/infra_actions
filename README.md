@@ -1,6 +1,6 @@
 # infra_actions
 
-![example workflow](https://github.com/zhss1983/infra_actions/actions/workflows/python-app.yml/badge.svg)
+![example workflow](https://github.com/zhss1983/infra_actions/actions/workflows/main.yml/badge.svg)
 
 Учебный проект для изучения работы GitHub Actions.
 
